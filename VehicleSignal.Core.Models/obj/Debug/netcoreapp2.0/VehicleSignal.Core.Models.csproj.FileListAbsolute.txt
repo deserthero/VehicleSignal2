@@ -1,0 +1,8 @@
+C:\Users\10\source\repos\VehicleSignal\VehicleSignal.Core.Models\bin\Debug\netcoreapp2.0\VehicleSignal.Core.Models.deps.json
+C:\Users\10\source\repos\VehicleSignal\VehicleSignal.Core.Models\bin\Debug\netcoreapp2.0\VehicleSignal.Core.Models.dll
+C:\Users\10\source\repos\VehicleSignal\VehicleSignal.Core.Models\bin\Debug\netcoreapp2.0\VehicleSignal.Core.Models.pdb
+C:\Users\10\source\repos\VehicleSignal\VehicleSignal.Core.Models\obj\Debug\netcoreapp2.0\VehicleSignal.Core.Models.csproj.CoreCompileInputs.cache
+C:\Users\10\source\repos\VehicleSignal\VehicleSignal.Core.Models\obj\Debug\netcoreapp2.0\VehicleSignal.Core.Models.AssemblyInfoInputs.cache
+C:\Users\10\source\repos\VehicleSignal\VehicleSignal.Core.Models\obj\Debug\netcoreapp2.0\VehicleSignal.Core.Models.AssemblyInfo.cs
+C:\Users\10\source\repos\VehicleSignal\VehicleSignal.Core.Models\obj\Debug\netcoreapp2.0\VehicleSignal.Core.Models.dll
+C:\Users\10\source\repos\VehicleSignal\VehicleSignal.Core.Models\obj\Debug\netcoreapp2.0\VehicleSignal.Core.Models.pdb

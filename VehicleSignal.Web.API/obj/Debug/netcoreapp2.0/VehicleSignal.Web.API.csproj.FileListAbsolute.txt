@@ -1,0 +1,4 @@
+C:\Users\10\source\repos\VehicleSignal\VehicleSignal.Web.API\obj\Debug\netcoreapp2.0\VehicleSignal.Web.API.csprojResolveAssemblyReference.cache
+C:\Users\10\source\repos\VehicleSignal\VehicleSignal.Web.API\obj\Debug\netcoreapp2.0\VehicleSignal.Web.API.csproj.CoreCompileInputs.cache
+C:\Users\10\source\repos\VehicleSignal\VehicleSignal.Web.API\obj\Debug\netcoreapp2.0\VehicleSignal.Web.API.AssemblyInfoInputs.cache
+C:\Users\10\source\repos\VehicleSignal\VehicleSignal.Web.API\obj\Debug\netcoreapp2.0\VehicleSignal.Web.API.AssemblyInfo.cs

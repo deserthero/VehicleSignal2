@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  vehiclesignal.web.api:
+    image: vehiclesignal.web.api
+    build:
+      context: .
+      dockerfile: VehicleSignal.Web.API\Dockerfile

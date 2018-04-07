@@ -1,0 +1,11 @@
+C:\Users\10\source\repos\VehicleSignal.Infrastructurex\bin\Debug\netcoreapp2.0\VehicleSignal.Infrastructure.deps.json
+C:\Users\10\source\repos\VehicleSignal.Infrastructurex\bin\Debug\netcoreapp2.0\VehicleSignal.Infrastructure.dll
+C:\Users\10\source\repos\VehicleSignal.Infrastructurex\obj\Debug\netcoreapp2.0\VehicleSignal.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\10\source\repos\VehicleSignal.Infrastructurex\obj\Debug\netcoreapp2.0\VehicleSignal.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\10\source\repos\VehicleSignal.Infrastructurex\obj\Debug\netcoreapp2.0\VehicleSignal.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\10\source\repos\VehicleSignal.Infrastructurex\obj\Debug\netcoreapp2.0\VehicleSignal.Infrastructure.AssemblyInfo.cs
+C:\Users\10\source\repos\VehicleSignal.Infrastructurex\bin\Debug\netcoreapp2.0\VehicleSignal.Core.Models.dll
+C:\Users\10\source\repos\VehicleSignal\VehicleSignal.Infrastructure\obj\Debug\netcoreapp2.0\VehicleSignal.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\10\source\repos\VehicleSignal\VehicleSignal.Infrastructure\obj\Debug\netcoreapp2.0\VehicleSignal.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\10\source\repos\VehicleSignal\VehicleSignal.Infrastructure\obj\Debug\netcoreapp2.0\VehicleSignal.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\10\source\repos\VehicleSignal\VehicleSignal.Infrastructure\obj\Debug\netcoreapp2.0\VehicleSignal.Infrastructure.AssemblyInfo.cs

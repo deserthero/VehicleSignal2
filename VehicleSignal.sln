@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VehicleSignal.Core", "VehicleSignal.Core", "{0F88A572-B73B-48B7-8DDC-7C2D0221B82C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VehicleSignal.Core", "VehicleSignal.Core.Services\VehicleSignal.Core.csproj", "{B0D2A3B1-2319-4DC2-B8FD-4558DF67C015}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VehicleSignal.Core.Models", "VehicleSignal.Core.Models\VehicleSignal.Core.Models.csproj", "{1F6C03A9-F1EE-4FBD-9674-F17A769E0466}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VehicleSignal.Web", "VehicleSignal.Web", "{D7C72528-FF5A-434F-B821-274791419616}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VehicleSignal.Web.API", "VehicleSignal.Web.API\VehicleSignal.Web.API.csproj", "{F8CC43D1-6436-4C60-BBF4-A71315A9DB0A}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{C97D0AF0-B7DF-4697-BE1F-CDE9F4CEC7E7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VehicleSignal.Infrastructure", "VehicleSignal.Infrastructure", "{37671823-81E9-496C-A55F-EE232F8A034B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleSignal.Infrastructure", "VehicleSignal.Infrastructure\VehicleSignal.Infrastructure.csproj", "{7E61FB11-CF14-4915-AA74-82BB2C1A6432}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0D2A3B1-2319-4DC2-B8FD-4558DF67C015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0D2A3B1-2319-4DC2-B8FD-4558DF67C015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0D2A3B1-2319-4DC2-B8FD-4558DF67C015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0D2A3B1-2319-4DC2-B8FD-4558DF67C015}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F6C03A9-F1EE-4FBD-9674-F17A769E0466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F6C03A9-F1EE-4FBD-9674-F17A769E0466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F6C03A9-F1EE-4FBD-9674-F17A769E0466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F6C03A9-F1EE-4FBD-9674-F17A769E0466}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8CC43D1-6436-4C60-BBF4-A71315A9DB0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8CC43D1-6436-4C60-BBF4-A71315A9DB0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8CC43D1-6436-4C60-BBF4-A71315A9DB0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8CC43D1-6436-4C60-BBF4-A71315A9DB0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C97D0AF0-B7DF-4697-BE1F-CDE9F4CEC7E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C97D0AF0-B7DF-4697-BE1F-CDE9F4CEC7E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C97D0AF0-B7DF-4697-BE1F-CDE9F4CEC7E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C97D0AF0-B7DF-4697-BE1F-CDE9F4CEC7E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E61FB11-CF14-4915-AA74-82BB2C1A6432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E61FB11-CF14-4915-AA74-82BB2C1A6432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E61FB11-CF14-4915-AA74-82BB2C1A6432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E61FB11-CF14-4915-AA74-82BB2C1A6432}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B0D2A3B1-2319-4DC2-B8FD-4558DF67C015} = {0F88A572-B73B-48B7-8DDC-7C2D0221B82C}
+		{1F6C03A9-F1EE-4FBD-9674-F17A769E0466} = {0F88A572-B73B-48B7-8DDC-7C2D0221B82C}
+		{F8CC43D1-6436-4C60-BBF4-A71315A9DB0A} = {D7C72528-FF5A-434F-B821-274791419616}
+		{7E61FB11-CF14-4915-AA74-82BB2C1A6432} = {37671823-81E9-496C-A55F-EE232F8A034B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07BCADE3-02C9-4384-961E-E647A34A58E6}
+	EndGlobalSection
+EndGlobal
